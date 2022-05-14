@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 50%
+  - description: 40%
     icon: ":computer:"
     icon_pack: "emoji"
     name: Coding
@@ -28,6 +28,11 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+  - description: 50%
+    icon: ":books:"
+    icon_pack: "emoji"
+    name: English language
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
