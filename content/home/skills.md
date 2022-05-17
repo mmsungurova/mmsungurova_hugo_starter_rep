@@ -23,7 +23,7 @@ feature:
   - description: 100%
     icon: ":film_projector:"
     icon_pack: "emoji"
-    name: Mowie watching
+    name: Movie watching
   - description: 40%
     icon: camera-retro
     icon_pack: fas
